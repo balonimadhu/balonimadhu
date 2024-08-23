@@ -5,7 +5,7 @@
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balonimadhu" alt="balonimadhu" /></a> </p>
 
-- 🌱 I’m currently learning **pygame library**
+- 🌱 I’m currently learning **Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
